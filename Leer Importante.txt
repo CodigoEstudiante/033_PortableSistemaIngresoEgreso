@@ -1,0 +1,13 @@
+1.-Pegar la carpeta "SistemaIE" en la carpeta "Archivos de programa" de su disco "C"
+Ruta = "C:\Program Files" o "C:\Archivos de programa"
+
+
+2.-Una vez pegada la carpeta "SistemaIE", dar permisos de escritura y lectura de esta carpeta para todos los usuarios del equipo.
+
+3.-Crear un acceso directo en el escritorio del archivo "MyFreeReport.exe".
+
+4.-Acceder al sistema desde el acceso directo.
+
+Credenciales
+Numero Documento:	10101010
+Contraseña:		123
